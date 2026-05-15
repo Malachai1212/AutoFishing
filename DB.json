@@ -1,0 +1,1 @@
+{"settings": [{"rodKey": 3, "mealKey": 6, "potionKey": 8, "useMeal": true, "usePotion": false, "mealTimer": 160, "potionTimer": 800, "timeForTry": 22.5, "baitType": "swarm", "useFleetRepair": true, "fleetRepairTimer": 900}], "screenSize": [{"width": 2560, "height": 1440}]}
