@@ -53,7 +53,7 @@ Open the settings window (gear icon) to configure:
 
 ## History & Export
 
-The History window (clock icon) logs every event with timestamps. Click **Export** to save as CSV with columns: Date, Time, Event, Description, Item.
+The History window logs every event with timestamps. Click **Export** to save as CSV with columns: Date, Time, Event, Description, Item.
 
 Session start/end entries include your Drachma balance. Repair entries include the cost. Fish and treasure entries include the specific item name.
 
