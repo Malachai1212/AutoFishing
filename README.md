@@ -22,9 +22,10 @@ Automatic fishing bot for Roblox Arcane Odyssey with OCR-powered item logging, f
 
 Grab the latest release from the [Releases page](https://github.com/Malachai1212/AutoFishing/releases) and extract the zip.
 
-### 2. Install Tesseract OCR
+### (Optional) 2. Install Tesseract OCR
 
 Download and run the installer from [UB-Mannheim/tesseract](https://github.com/UB-Mannheim/tesseract/wiki) (`tesseract-ocr-w64-setup-5.x.x.exe`). Install with default settings to `C:\Program Files\Tesseract-OCR\`.
+Required for Fish/Item Name and Repair Cost tracking
 
 ### 3. Run
 
